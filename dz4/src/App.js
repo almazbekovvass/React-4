@@ -1,7 +1,7 @@
-import AgePage from "./agePage/AgePage";
-import TurnPage from "./turnPage/TurnPage";
-import InputPage from "./inputPage/InputPage";
-import FormPage from "./formPage/FormPage";
+import AgePage from "./pages/agePage/AgePage";
+import TurnPage from "./pages/turnPage/TurnPage";
+import InputPage from "./pages/inputPage/InputPage";
+import FormPage from "./pages/formPage/FormPage";
 
 function App() {
   return (
