@@ -1,7 +1,8 @@
 import React from 'react';
 import style from './formPage.module.css'
 const FormPage = () => {
-    const sendButton= ()=>{
+    const sendButton= (e)=>{
+        e.preventDefault()
         const objectSendButton={title: "Hello", body: "world"}
         console.log(objectSendButton)
     }
