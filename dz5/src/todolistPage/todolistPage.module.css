@@ -1,0 +1,23 @@
+.deleteButton{
+    padding: 20px;
+    background: darkred;
+    color: white;
+    margin-left: 50px;
+}
+.addButton{
+    padding: 20px;
+    background: darkgreen;
+    color: white;
+    margin-left: 50px;
+}
+.input{
+    padding: 20px;
+    margin-left: 50px;
+    width: 250px;
+}
+.block{
+    margin-left: 50px;
+    width: 250px;
+    font-size: 24px;
+    margin-top: 20px;
+}
